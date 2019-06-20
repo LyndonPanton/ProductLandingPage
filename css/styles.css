@@ -1,7 +1,16 @@
 @charset "UTF-8";
 
 /* GENERAL */
-
+body, html {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	background-color: beige;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+	font-size: 16px;
+	color: black;
+}
 
 
 /* HEADER */

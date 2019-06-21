@@ -53,11 +53,13 @@ header {
 
 .nav-link:active {
 	text-decoration: underline;
+	text-decoration-color: indianred;
 	color: indianred !important;
 }
 
 .nav-link:hover {
 	text-decoration: underline;
+	text-decoration-color: dodgerblue;
 	color: dodgerblue;
 }
 

@@ -30,6 +30,12 @@ header {
 	min-width: 100%;
 	top: 0;
 	text-align: center;
+
+	transition: opacity 0.5s ease-out;
+}
+
+.header-transparent {
+	opacity: 0.8;
 }
 
 .nav-item {

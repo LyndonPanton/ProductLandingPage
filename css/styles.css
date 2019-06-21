@@ -204,6 +204,8 @@ footer {
 
 	.nav-item {
 		flex-basis: 20%;
+
+		border-bottom: none;
 		font-size: 1.4em;
 	}
 

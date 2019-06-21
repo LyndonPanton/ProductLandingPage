@@ -19,9 +19,9 @@
 > 1. This was done as one of the project's for _freecodecamp_'s responsive web design certificate
 
 ## Preview
-![Screenshot 1](./img/screenshot1.png)
-![Screenshot 2](./img/screenshot2.png)
-![Screenshot 3](./img/screenshot3.png)
-![Screenshot 4](./img/screenshot4.png)
-![Screenshot 5](./img/screenshot5.png)
-![Screenshot 6](./img/screenshot6.png)
+![Screenshot 1](./img/screenshots/screenshot1.png)
+![Screenshot 2](./img/screenshots/screenshot2.png)
+![Screenshot 3](./img/screenshots/screenshot3.png)
+![Screenshot 4](./img/screenshots/screenshot4.png)
+![Screenshot 5](./img/screenshots/screenshot5.png)
+![Screenshot 6](./img/screenshots/screenshot6.png)

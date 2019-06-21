@@ -8,4 +8,4 @@ window.onload = function() {
 			document.getElementById("header").classList.remove("header-transparent");
 		}
 	});
-}
+};
